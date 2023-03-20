@@ -1,4 +1,4 @@
-## Olá! Me chamo Amadeu 🧔🏻
+## Olá! Aqui é o Amadeu 🧔🏻
 
 ![](https://github.com/amadeuchacar/amadeuchacar/blob/main/giphy2.gif)
 

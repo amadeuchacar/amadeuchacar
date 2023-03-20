@@ -11,3 +11,5 @@
 🌐 Práticas **DevOps** e ferramentas como Docker, Kubernetes & Ansible
 
 🎧 Apaixonado por arte, música e shows
+
+_"We're all working on ourselves and we're praying that the rest don't mind how much we've changed"_

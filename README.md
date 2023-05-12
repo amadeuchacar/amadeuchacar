@@ -1,15 +1,15 @@
-## Olá! Aqui é o Amadeu 🧔🏻
+## Hello! I'm Amadeu 🧔🏻
 
 ![](https://github.com/amadeuchacar/amadeuchacar/blob/main/giphy2.gif)
 
-💻 **Engenheiro de dados júnior** buscando primeira oportunidade na área de dados
+💻 **Junior Data Engineer** looking for my first work opportunity.
 
-📒 Bacharel em **engenharia da computação** pelo Instituto Federal de Educação, Ciência e Tecnologia Fluminense
+📒 Bachelor's degree in Computer Engineering from the Fluminense Federal Institute of Education, Science and Technology.
 
 💓 **Python & SQL**
 
-🌐 Práticas **DevOps** e ferramentas como Docker, Kubernetes & Ansible
+🌐 **DevOps practices** and tools like Docker, Kubernetes & Ansible
 
-🎧 Apaixonado por arte, música e shows
+🎧 Passionate about art, music, and concerts
 
 _"We're all working on ourselves and we're praying that the rest don't mind how much we've changed"_

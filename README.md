@@ -2,9 +2,9 @@
 
 ![](https://github.com/amadeuchacar/amadeuchacar/blob/main/giphy2.gif)
 
-💻 **Junior Data Engineer** looking for my first work opportunity.
+💻 **Junior Data Engineer** looking for my first work opportunity
 
-📒 Bachelor's degree in Computer Engineering from the Fluminense Federal Institute of Education, Science and Technology.
+📒 Bachelor's degree in Computer Engineering from the Fluminense Federal Institute of Education, Science and Technology
 
 💓 **Python & SQL**
 

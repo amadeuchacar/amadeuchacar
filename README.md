@@ -8,7 +8,7 @@
 
 💓 **Python & SQL**
 
-🌐 **DevOps practices** and tools like Docker, Kubernetes & Ansible
+🌐 **DevOps practices** and tools like Docker, Kubernetes & Terraform
 
 🎧 Passionate about art, music, and concerts
 

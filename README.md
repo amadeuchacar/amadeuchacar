@@ -2,7 +2,7 @@
 
 ![](https://github.com/amadeuchacar/amadeuchacar/blob/main/giphy2.gif)
 
-💻 **Junior Data Engineer** looking for my first work opportunity
+💻 **Junior Data Engineer**, currently working with GCP tools
 
 📒 Bachelor's degree in Computer Engineering from the Fluminense Federal Institute of Education, Science and Technology
 

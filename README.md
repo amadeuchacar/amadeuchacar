@@ -4,7 +4,7 @@
 
 💻 **Junior Data Engineer**, currently working with GCP tools
 
-📒 Bachelor's degree in Computer Engineering from the Fluminense Federal Institute of Education, Science and Technology
+📒 Postgraduate Degree in Data Engineering from PUC Minas and Bachelor's degree in Computer Engineering from the Fluminense Federal Institute of Education, Science and Technology
 
 💓 **Python & SQL**
 

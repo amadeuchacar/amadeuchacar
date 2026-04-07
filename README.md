@@ -2,7 +2,7 @@
 
 ![](https://github.com/amadeuchacar/amadeuchacar/blob/main/giphy2.gif)
 
-💻 **Junior Data Engineer**, currently working with GCP tools
+💻 **Data Engineer**, currently working with GCP tools
 
 📒 Postgraduate Degree in Data Engineering from PUC Minas and Bachelor's degree in Computer Engineering from the Fluminense Federal Institute of Education, Science and Technology
 

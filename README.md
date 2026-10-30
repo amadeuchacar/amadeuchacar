@@ -2,14 +2,18 @@
 
 ![](https://github.com/amadeuchacar/amadeuchacar/blob/main/giphy2.gif)
 
-💻 **Data Engineer**, currently working with GCP tools
+💻 **Data Engineer**, building data pipelines on **GCP** (BigQuery, Dataflow, Composer...)
 
-📒 Postgraduate Degree in Data Engineering from PUC Minas and Bachelor's degree in Computer Engineering from the Fluminense Federal Institute of Education, Science and Technology
+🎓 Postgraduate degree in Data Engineering — PUC Minas
 
-💓 **Python & SQL**
+🎓 Bachelor's degree in Computer Engineering — Fluminense Federal Institute (IFF)
 
-🌐 **DevOps practices** and tools like Docker, Kubernetes & Terraform
+🐍 **Python, Airflow & SQL** to build, transform and orchestrate data
+
+⚙️ **DevOps practices** with Docker, Kubernetes & Terraform
 
 🎧 Passionate about art, music, and concerts
 
 _"We're all working on ourselves and we're praying that the rest don't mind how much we've changed"_
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/amadeuchacar/)
